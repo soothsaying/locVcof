@@ -8,7 +8,7 @@ The project is for Lan Xue, Xinxin Shu, Peibei Shi, Colin O. Wu, Annie Qu. Time-
 
        c) The function "lambdasel_BIC" is to calucate BIC values and select the best tunning parameters.
 
-You can use ?"function name" after the package installed to get help and details for each function. 
+   You can use ?"function name" after the package installed to get help and details for each function. 
 
 
 
