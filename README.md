@@ -8,7 +8,7 @@ b) The function "psvcf" is to calculate predicted y, time-varying coefficients a
 
 c) The function "lambdasel_BIC" is to calucate BIC values and select the best tunning parameters.
 
-You can use ?"function name" after the package installed to get help and details for each function 
+You can use ?"function name" after the package installed to get help and details for each function. 
 
 
 
